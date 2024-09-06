@@ -1,6 +1,7 @@
 # ddos
-
-https://github.com/rootnet007/ddos.git
+```bash
+git clone https://github.com/Ro0TN3T/ddos
+``
 
 
 #TUTORIAL
